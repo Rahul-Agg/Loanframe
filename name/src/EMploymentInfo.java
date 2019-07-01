@@ -143,7 +143,7 @@ public class EMploymentInfo {
 
     }
 
-     static void createKeyValueMap() throws IOException{
+     static void createKeyValueMap(name, number) throws IOException{
         FileReader file = new FileReader("C:\\Users\\LoanFrame User\\Desktop\\AccountTypeTable.txt");
         BufferedReader bf = new BufferedReader(file);
         String st=bf.readLine();
