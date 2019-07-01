@@ -1,0 +1,51 @@
+Value     Account Type
+00        CurrentOther
+01        Auto Loan (Personal) 
+02        Housing Loan 
+03        Property Loan 
+04        Loan Against Shares/Securities 
+05        Personal Loan 
+06        Consumer Loan
+07        Gold Loan 
+08        Education Loan 
+09        Loan to Professional 
+10        Credit Card 
+11        Leasing 
+12        Overdraft 
+13        Two-wheeler Loan 
+14        NFCF Non-Funded Credit Facility 
+15        LABD Loan Against Bank Deposits 
+16        Fleet Card 
+17        Commercial Vehicle Loan 
+18        Future Telco – Wireless 
+19        Future Telco – Broadband 
+20        Future Telco – Landline 
+31        Secured Credit Card 
+32        Used Car Loan 
+33        Construction Equipment Loan 
+34        Tractor Loan 
+35        Corporate Credit Card 
+36        Kisan Credit Card 
+40        Microfinance – Business Loan 
+41        Microfinance – Personal Loan 
+42        Microfinance – Housing Loan 
+43        Microfinance – Other 
+51        Business Loan – General 
+52        BLPS-SB Business Loan – Priority Sector – Small Business 
+53        BLPS-AGR Business Loan – Priority Sector – Agriculture 
+54        BLPS-OTH Business Loan – Priority Sector – Others 
+55        BNFCF-GEN Business Non-Funded Credit Facility – General 
+56        BNFCF-PS-SB Business Non-Funded Credit Facility – Priority Sector – Small Business 
+57        BNFCF-PS-AGR Business Non-Funded Credit Facility – Priority Sector – Agriculture 
+58        BNFCF-PS-OTH Business Non-Funded Credit Facility – Priority SectorOthers 
+59        BLABD Business Loan Against Bank Deposits 
+60        Business Loan – Director Search 
+80        Future Microfinance Detailed Report (Applicable to Enquiry Purpose only) 
+81        Future Summary Report (Applicable to Enquiry Purpose only) 
+88        Locate Plus for Insurance (Applicable to Enquiry Purpose only) 
+90        Account Review (Applicable to Enquiry Purpose only) 
+91        Retro Enquiry (Applicable to Enquiry Purpose only) 
+92        Locate Plus (Applicable to Enquiry Purpose only) 
+97        Adviser Liability (Applicable to Enquiry Purpose only)  
+98        Secured (Account Group for Portfolio Review response) 
+99        Unsecured (Account Group for Portfolio Review response) 
