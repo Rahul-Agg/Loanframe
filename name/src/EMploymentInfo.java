@@ -107,11 +107,14 @@ public class EMploymentInfo {
             }
             if(tag.equals("84"))
             {
-
+                i=i+4;
+                value=str.substring(i,i+6);
+                i=i+6;
+                
             }
             if(tag.equals("85"))
             {
-
+                
             }
             if(tag.equals("86"))
             {
